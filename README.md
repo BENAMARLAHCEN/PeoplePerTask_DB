@@ -22,10 +22,6 @@ The database structure and relationships among tables are depicted in the `/diag
 
 SQL scripts for creating the database structure are available in the `/sql_scripts` directory. Each script corresponds to table creation, primary and foreign key establishment, ensuring proper relations between entities.
 
-## Maintenance
-
-Automated regular backups and maintenance sessions are established for optimal database performance. Maintenance tasks include index optimization, statistics updates, and relevant performance enhancement procedures.
-
 ## Scalability and Future Considerations
 
 The database design is geared towards accommodating the platform's growth. Considerations include normalization, indexing strategies, and potential data partitioning to handle scalability.
